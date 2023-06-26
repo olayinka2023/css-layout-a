@@ -1,0 +1,28 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    padding-left: 400px;
+
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+}
+.one{
+    background-color: aqua;
+}
+
+.two{
+    background-color: black;
+}
+
+.three{
+    background-color: brown;
+}
+.four{
+    background-color: red;
+}
